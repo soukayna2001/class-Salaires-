@@ -1,0 +1,2 @@
+# class-Salaires-
+class Salaires 
